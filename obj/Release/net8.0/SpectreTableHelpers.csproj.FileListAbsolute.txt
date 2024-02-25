@@ -1,0 +1,12 @@
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.csproj.AssemblyReference.cache
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.AssemblyInfoInputs.cache
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.AssemblyInfo.cs
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.csproj.CoreCompileInputs.cache
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\bin\Release\net8.0\SpectreTableHelpers.deps.json
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\bin\Release\net8.0\SpectreTableHelpers.dll
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\bin\Release\net8.0\SpectreTableHelpers.pdb
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.dll
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\refint\SpectreTableHelpers.dll
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\SpectreTableHelpers.pdb
+D:\Dev\Powershell\VSYSModules\PwshSpectreConsoleHelpers\obj\Release\net8.0\ref\SpectreTableHelpers.dll
