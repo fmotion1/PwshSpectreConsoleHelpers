@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpectreTableHelpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8adaa5d76f8d46fc261b0f759d429bc2571c4a28")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpectreTableHelpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpectreTableHelpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

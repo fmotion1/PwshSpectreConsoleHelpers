@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9PG/c3SrT3u0zeDIGXNLtupkSfqDh7MDLbjxcCr5w7IQg9Hj4BzYb0Bf5HUlyZz5eUjo3Uhp0enBqseFsr5uRA==",
+  "dgSpecHash": "Z3E9SUAFhCicOxtOPKCfOABnvUeEgUXVKKTmZQEw5h5D3x6RRBiuhK8oeSFJc4W00d50YNCH0LxDYtbdE9AByA==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
+  "projectFilePath": "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\futur\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
     "C:\\Users\\futur\\.nuget\\packages\\microsoft.management.infrastructure\\3.0.0\\microsoft.management.infrastructure.3.0.0.nupkg.sha512",

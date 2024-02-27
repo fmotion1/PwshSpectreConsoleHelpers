@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj": {}
+    "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj": {
+    "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
+        "projectUniqueName": "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
         "projectName": "SpectreTableHelpers",
-        "projectPath": "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
+        "projectPath": "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\SpectreTableHelpers.csproj",
         "packagesPath": "C:\\Users\\futur\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Powershell\\VSYSModules\\PwshSpectreConsoleHelpers\\obj\\",
+        "outputPath": "D:\\Dev\\Powershell\\CSharp\\PwshSpectreConsoleHelpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -71,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
